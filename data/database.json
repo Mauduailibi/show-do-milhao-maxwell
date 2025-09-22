@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "Ao dobrar a distância entre duas cargas elétricas pontuais de mesmo valor, a força eletrostática entre elas fica:",
+    "alternatives": [
+      "inalterada",
+      "reduzida a um quarto",
+      "dobrada",
+      "quadruplicada"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 2,
+    "question": "Duas cargas elétricas com o mesmo sinal:",
+    "alternatives": [
+      "podem se atrair ou repelir dependendo da magnitude",
+      "não interagem",
+      "sempre se atraem",
+      "sempre se repelem"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 3,
+    "question": "Qual é a unidade de carga elétrica no SI?",
+    "alternatives": [
+      "Ohm",
+      "Coulomb",
+      "Ampere",
+      "Volt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 4,
+    "question": "Um coulomb (C) de carga elétrica equivale a:",
+    "alternatives": [
+      "1 Ampere",
+      "1 Joule",
+      "1 Volt",
+      "1 Ampere × 1 segundo"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 5,
+    "question": "Qual destes materiais é isolante elétrico?",
+    "alternatives": [
+      "Madeira seca",
+      "Cobre",
+      "Ferro",
+      "Alumínio"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 6,
+    "question": "Se um ímã de barra é cortado ao meio, cada pedaço resultante terá:",
+    "alternatives": [
+      "deixará de ser um ímã",
+      "apenas um polo Sul",
+      "ambos polos Norte e Sul",
+      "apenas um polo norte"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 7,
+    "question": "Um fio retilíneo pelo qual passa corrente elétrica gera ao seu redor:",
+    "alternatives": [
+      "apenas campo magnético",
+      "apenas campo elétrico",
+      "nenhum dos dois",
+      "campos elétrico e magnético"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 8,
+    "question": "A carga elétrica do elétron é:",
+    "alternatives": [
+      "nula",
+      "varia de acordo com o elemento químico",
+      "positiva",
+      "negativa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 9,
+    "question": "Qual partícula do átomo possui carga positiva?",
+    "alternatives": [
+      "Elétron",
+      "Fóton",
+      "Próton",
+      "Nêutron"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 10,
+    "question": "O nêutron possui carga elétrica:",
+    "alternatives": [
+      "duas vezes a do próton",
+      "negativa",
+      "nula",
+      "positiva"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 11,
+    "question": "Uma bússola aponta aproximadamente para qual polo magnético da Terra?",
+    "alternatives": [
+      "Polo Sul geográfico",
+      "Polo Norte geográfico",
+      "Polo Sul magnético",
+      "Polo Norte magnético"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 12,
+    "question": "Uma barra de ferro ligada a uma corrente elétrica (eletroímã) permanece magnetizada enquanto:",
+    "alternatives": [
+      "a barra estiver em repouso",
+      "a corrente alternar sentido",
+      "a corrente elétrica estiver passando",
+      "a barra estiver sendo aquecida"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 13,
+    "question": "Qual instrumento mede a corrente elétrica em um circuito?",
+    "alternatives": [
+      "Galvanômetro",
+      "Amperímetro",
+      "Ohmímetro",
+      "Voltímetro"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 14,
+    "question": "Qual instrumento mede a diferença de potencial (tensão) elétrica?",
+    "alternatives": [
+      "Voltímetro",
+      "Amperímetro",
+      "Galvanômetro",
+      "Ohmímetro"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 15,
+    "question": "Qual instrumento mede a resistência elétrica de um componente?",
+    "alternatives": [
+      "Voltímetro",
+      "Galvanômetro",
+      "Ohmímetro",
+      "Amperímetro"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 16,
+    "question": "Um motor elétrico transforma energia elétrica em:",
+    "alternatives": [
+      "energia luminosa",
+      "energia sonora",
+      "energia mecânica",
+      "energia térmica"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 17,
+    "question": "A descoberta da indução eletromagnética, que relaciona variação de campo magnético com corrente induzida, é atribuída a:",
+    "alternatives": [
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "James Maxwell",
+      "Charles Coulomb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 18,
+    "question": "Quem unificou as leis do eletromagnetismo numa teoria matemática completa?",
+    "alternatives": [
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "Nikola Tesla",
+      "Albert Einstein"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 19,
+    "question": "Os ímãs atraem preferencialmente objetos de:",
+    "alternatives": [
+      "material ferroso (ferro, níquel, cobalto)",
+      "qualquer material magnético ou não",
+      "qualquer tipo de metal",
+      "materiais não metálicos"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 20,
+    "question": "Um para-raios protege edifícios contra descargas elétricas por meio de:",
+    "alternatives": [
+      "interferir na formação de nuvens de tempestade",
+      "prover um caminho de menor resistência elétrica rumo ao solo",
+      "atrair raios para longe do edifício sem conduzir a energia",
+      "elevar a temperatura do ar para afastar raios"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 21,
+    "question": "Qual dos metais abaixo não é atraído por um ímã comum?",
+    "alternatives": [
+      "Cobre",
+      "Níquel",
+      "Cobalto",
+      "Ferro"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 22,
+    "question": "Qual abaixo é um exemplo de onda eletromagnética?",
+    "alternatives": [
+      "Onda no mar",
+      "Onda sísmica no solo",
+      "Micro-ondas (antenas de Wi-Fi)",
+      "Onda sonora no ar"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 23,
+    "question": "Quem foi o cientista que demonstrou experimentalmente as ondas de rádio previstas por Maxwell?",
+    "alternatives": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Heinrich Hertz",
+      "James Clerk Maxwell"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 24,
+    "question": "Qual a unidade de campo magnético (densidade de fluxo) no SI?",
+    "alternatives": [
+      "Tesla",
+      "Watt",
+      "Ohm",
+      "Henry"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 25,
+    "question": "Corrente elétrica é definida como:",
+    "alternatives": [
+      "movimento de prótons em materiais condutores",
+      "fluxo de energia elétrica",
+      "movimento ordenado de cargas elétricas",
+      "alterações do campo magnético"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 26,
+    "question": "A unidade de corrente elétrica no SI é:",
+    "alternatives": [
+      "Joule",
+      "Coulomb",
+      "Ampere",
+      "Volt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 27,
+    "question": "Uma bateria converte energia química em:",
+    "alternatives": [
+      "energia sonora",
+      "energia elétrica",
+      "energia térmica",
+      "energia luminosa"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 28,
+    "question": "Se dobrarmos o valor de uma carga puntual (mantendo a mesma distância de observação), o campo elétrico gerado por ela naquele ponto será:",
+    "alternatives": [
+      "triplicado",
+      "dobrado",
+      "inalterado",
+      "reduzido à metade"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "id": 29,
+    "question": "Segundo a Lei de Gauss, se uma carga positiva está dentro de uma superfície fechada, o fluxo total do campo elétrico saindo dessa superfície é:",
+    "alternatives": [
+      "negativo",
+      "infinito",
+      "positivo",
+      "zero"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 30,
+    "question": "A Lei de Lenz afirma que a corrente induzida em um circuito sempre:",
+    "alternatives": [
+      "reforça a variação do fluxo magnético",
+      "é constante e independe do campo",
+      "acompanha a corrente externa que a induz",
+      "se opõe à variação do fluxo magnético"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "médio"
+  },
+  {
+    "id": 31,
+    "question": "A Lei de Gauss para o magnetismo estabelece que o fluxo magnético total através de uma superfície fechada é:",
+    "alternatives": [
+      "igual a zero",
+      "indefinido",
+      "igual à carga magnética interna",
+      "proporcional à corrente elétrica"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "médio"
+  },
+  {
+    "id": 32,
+    "question": "O transformador elétrico funciona baseado em qual princípio?",
+    "alternatives": [
+      "Efeito Joule",
+      "Gravitação",
+      "Indução eletromagnética",
+      "Condução térmica"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 33,
+    "question": "Uma carga elétrica em repouso produz ao seu redor:",
+    "alternatives": [
+      "apenas campo magnético",
+      "ambos campo elétrico e magnético",
+      "apenas campo elétrico",
+      "nenhum tipo de campo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 34,
+    "question": "Maxwell mostrou que as ondas eletromagnéticas se propagam no vácuo com uma velocidade c (aprox. 3 × 10^8 m/s), que corresponde à:",
+    "alternatives": [
+      "velocidade do som no ar",
+      "velocidade das ondas de rádio",
+      "velocidade da luz",
+      "velocidade zero (estacionárias)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 35,
+    "question": "Para determinar a direção do campo magnético criado por um fio retilíneo com corrente, pode-se usar:",
+    "alternatives": [
+      "Qualquer das anteriores",
+      "Regra dos três dedos de Fermat",
+      "Regra da mão direita",
+      "Regra da mão esquerda"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 36,
+    "question": "De acordo com a Lei de Faraday, uma corrente elétrica é induzida em uma espira se:",
+    "alternatives": [
+      "a resistência elétrica do circuito for nula",
+      "não houver campo magnético próximo",
+      "o campo magnético através dela variar com o tempo",
+      "o campo magnético através dela for constante"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "médio"
+  },
+  {
+    "id": 37,
+    "question": "Quem construiu o primeiro motor elétrico primitivo em 1821?",
+    "alternatives": [
+      "William Sturgeon",
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "André-Marie Ampère"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "id": 38,
+    "question": "Uma barra condutora retilínea de 1,0 m, por onde passa corrente de 5 A, está perpendicular a um campo magnético uniforme de 2,0 T. A força magnética sobre a barra é:",
+    "alternatives": [
+      "2 N",
+      "0 N",
+      "10 N",
+      "20 N"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "id": 39,
+    "question": "Em uma onda eletromagnética no vácuo, os vetores de campo elétrico (E), campo magnético (B) e direção de propagação se relacionam de forma que:",
+    "alternatives": [
+      "E ⊥ B e ambos ⊥ direção de propagação",
+      "E // B e ambos // direção de propagação",
+      "E // direção de propagação e B ⊥ direção de propagação",
+      "E ⊥ direção de propagação e B // direção de propagação"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "id": 40,
+    "question": "Quando a velocidade v de uma partícula carregada é paralela ao campo magnético B, a força magnética sobre a partícula é:",
+    "alternatives": [
+      "máxima",
+      "dependente da massa",
+      "igual à força elétrica",
+      "zero"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "difícil"
+  }
+]
