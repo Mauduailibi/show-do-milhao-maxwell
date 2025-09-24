@@ -1,7 +1,9 @@
 import { getQuizQuestions } from "@/lib/questions";
 import QuizClient from "@/components/quiz-client"
 
-export default function Quiz(){
+export const dynamic = 'force-dynamic'
+
+export default function Quiz(){    
     const questions = getQuizQuestions();
 
     return (
