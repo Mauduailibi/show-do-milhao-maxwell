@@ -9,7 +9,8 @@
       "quadruplicada"
     ],
     "correctAnswer": 1,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/1.jpeg"
   },
   {
     "id": 2,
@@ -69,7 +70,8 @@
       "apenas um polo norte"
     ],
     "correctAnswer": 2,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/6.jpeg"
   },
   {
     "id": 7,
@@ -81,7 +83,8 @@
       "campos elétrico e magnético"
     ],
     "correctAnswer": 3,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/7.jpeg"
   },
   {
     "id": 8,
@@ -249,7 +252,8 @@
       "Ferro"
     ],
     "correctAnswer": 0,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/21.jpeg"
   },
   {
     "id": 22,
@@ -261,7 +265,8 @@
       "Onda sonora no ar"
     ],
     "correctAnswer": 2,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/22.jpeg"
   },
   {
     "id": 23,
@@ -297,7 +302,8 @@
       "alterações do campo magnético"
     ],
     "correctAnswer": 2,
-    "difficulty": "fácil"
+    "difficulty": "fácil",
+    "imageUrl": "/images/questions/25.jpeg"
   },
   {
     "id": 26,
@@ -345,7 +351,8 @@
       "zero"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/29.jpeg"
   },
   {
     "id": 30,
@@ -369,7 +376,8 @@
       "proporcional à corrente elétrica"
     ],
     "correctAnswer": 0,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/31.jpeg"
   },
   {
     "id": 32,
@@ -381,7 +389,8 @@
       "Condução térmica"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/32.jpeg"
   },
   {
     "id": 33,
@@ -393,7 +402,8 @@
       "nenhum tipo de campo"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/33.jpeg"
   },
   {
     "id": 34,
@@ -405,7 +415,8 @@
       "velocidade zero (estacionárias)"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/34.jpeg"
   },
   {
     "id": 35,
@@ -417,7 +428,8 @@
       "Regra da mão esquerda"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/35.jpeg"
   },
   {
     "id": 36,
@@ -429,7 +441,8 @@
       "o campo magnético através dela for constante"
     ],
     "correctAnswer": 2,
-    "difficulty": "médio"
+    "difficulty": "médio",
+    "imageUrl": "/images/questions/36.jpeg"
   },
   {
     "id": 37,
@@ -453,7 +466,8 @@
       "20 N"
     ],
     "correctAnswer": 2,
-    "difficulty": "difícil"
+    "difficulty": "difícil",
+    "imageUrl": "/images/questions/38.jpeg"
   },
   {
     "id": 39,
@@ -465,7 +479,8 @@
       "E ⊥ direção de propagação e B // direção de propagação"
     ],
     "correctAnswer": 0,
-    "difficulty": "difícil"
+    "difficulty": "difícil",
+    "imageUrl": "/images/questions/39.jpeg"
   },
   {
     "id": 40,
@@ -477,6 +492,7 @@
       "zero"
     ],
     "correctAnswer": 3,
-    "difficulty": "difícil"
+    "difficulty": "difícil",
+    "imageUrl": "/images/questions/40.jpeg"
   }
 ]

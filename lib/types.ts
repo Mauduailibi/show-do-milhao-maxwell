@@ -6,4 +6,5 @@ export interface Question {
   alternatives: string[];
   correctAnswer: number;
   difficulty: string;
+  imageUrl?: string;
 }

@@ -128,6 +128,18 @@ export default function QuizClient({ questions }: QuizClientProps) {
         <p className="text-lg md:text-xl">{currentQuestion.question}</p>
       </div>
 
+      {currentQuestion.imageUrl && (
+        <div className="my-6 flex justify-center">
+          <Image
+            src={currentQuestion.imageUrl}
+            alt="Imagem da questão"
+            width={400}
+            height={250}
+            className="rounded-lg object-contain"
+          />
+        </div>
+      )}
+
       {/* Alternativas */}
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
         {currentQuestion.alternatives.map((alt, index) => {
